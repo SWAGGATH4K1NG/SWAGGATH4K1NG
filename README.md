@@ -7,7 +7,7 @@
 
 
 ## 📸 My socials medias
-- 💜 [Twitch] (https://www.twitch.tv/swagga_th4_k1ng)
+- 💜 [Twitch](https://www.twitch.tv/swagga_th4_k1ng)
 - 🌐 [Instagram](https://www.instagram.com/swagga_d4_k1ng/)
 - 📫 **swaggaofficial@outlook.pt**
 - 👀 ![](https://komarev.com/ghpvc/?username=SWAGGATH4K1NG&label=Profile%20views&color=0e75b6&style=flat)
