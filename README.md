@@ -3,7 +3,7 @@
 
 - 💻 Languages : Lua, Python, HTML, CSS, C++, Java, JavaScript, Visual Code, PHP.
 
-- 🗣 My main language is Portuguese but I also know a little English and Spanish.
+- 🗣 My main language is Portuguese but I also fluent English and a little Spanish.
 
 
 ## 📸 My socials medias
