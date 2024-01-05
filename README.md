@@ -1,14 +1,13 @@
-<h2 align="center">Hi 👋, welcome to my github profile<br>My name is **SWAGGA TH4 K1NG** and im little developer from __PORTO__</h2>
+<h2 align="center">Hi 👋, welcome to my github profile<br>My name is **SWAGGA TH4 K1NG** and im little developer </>💻from **PORTO**</h2>
 
 
-- 💻 Languages : Lua, Python, HTML, CSS, C++, Java, JavaScript, Visual Code, PHP.
+- 💻 Languages : Lua, Python, HTML, CSS, C++, C#, Java, JavaScript, Visual Code, PHP.
 
 - 🗣 My main language is Portuguese but I also fluent English and a little Spanish.
 
 
 ## 📸 My socials medias
 - 💜 [Twitch](https://www.twitch.tv/swagga_th4_k1ng)
-- 🌐 [Instagram](https://www.instagram.com/swagga_d4_k1ng/)
 - 📫 **swaggaofficial@outlook.pt**
 - 👀 ![](https://komarev.com/ghpvc/?username=SWAGGATH4K1NG&label=Profile%20views&color=0e75b6&style=flat)
 
