@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, welcome to my github profile<br>My name is SWAGGA and im little developer </>💻from Portugal</h2>
+<h2 align="center">Hi 👋, welcome to my github profile<br>My name is SWAGGA and im little developer 💻from Portugal</h2>
 
 
 - 💻 Languages : Lua, Python, HTML, CSS, C++, C#, Java, JavaScript, Visual Code, PHP.
