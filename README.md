@@ -126,18 +126,14 @@ const developer = {
 - 🌐 **Long-term:** Lead development teams and mentor junior developers
 - 💡 **Innovation:** Build solutions that solve real-world problems
 
-## 🎯 Goals for 2025
+## 🎯 Future Goals
 
 - [ ] 🚀 Contribute to more open source projects
 - [ ] 📚 Learn new technologies (React Native, Docker)
-- [ ] 🎮 Develop an indie game
-- [ ] 📱 Create a mobile application
+- [ ] 🎮 Develop an game
+- [ ] 📱 Create more mobile applications
 - [ ] 🌐 Improve DevOps skills
-- [ ] 💼 Get first job as a developer
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
-</div>
+- [ ] 💼 Get first job as a full-stack
 
 ## 📱 Let's Connect
 
@@ -173,17 +169,24 @@ const developer = {
   <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="400">
 </div>
 
-## 🐍 Contribution Activity
+## 🌟 What I Bring to Your Team
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SWAGGATH4K1NG/SWAGGATH4K1NG/output/snake.svg" alt="Snake animation" />
+
+**💡 Problem Solver** - Love tackling complex challenges with innovative solutions  
+**🎨 Creative Thinker** - Bring fresh perspectives and unique approaches to development  
+**🤝 Team Player** - Collaborative, communicative, and always ready to help  
+**📚 Fast Learner** - Quickly adapt to new technologies and methodologies  
+**🎯 Detail-Oriented** - Write clean, maintainable code with attention to quality  
+**🚀 Passionate Developer** - Genuinely excited about creating impactful solutions
+
 </div>
 
 ---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400">
-
+  
   ### 🚀 Ready to make an impact!
   
   **Thank you for visiting my profile. Let's build something amazing together!**
