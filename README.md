@@ -93,10 +93,6 @@ const developer = {
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240885602-330af13b-6435-4505-8a02-1869b677f9eb.gif" width="400">
-</div>
-
 ## 🌟 Featured Projects
 
 <div align="center">
