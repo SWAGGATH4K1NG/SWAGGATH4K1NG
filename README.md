@@ -23,17 +23,16 @@ const developer = {
 ```
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400">
 </div>
 
 ## 🛠️ Technical Skills
 
 <div align="center">
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
-</div>
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -99,7 +98,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240885602-330af13b-6435-4505-8a02-1869b677f9eb.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/240885602-330af13b-6435-4505-8a02-1869b677f9eb.gif" width="400">
 </div>
 
 ## 🌟 Featured Projects
@@ -113,7 +112,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="400">
 </div>
 
 ## 🌍 Languages & Communication
@@ -145,7 +144,7 @@ const developer = {
 - [ ] 💼 Get first job as a developer
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ4NTIzNjAsIm5iZiI6MTc1NDg1MjA2MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEwVDE4NTQyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0ZTIyNDJjNjRlYWRlYjI0OTgyYWU0MWZiMTllZDNmYThlZjY2MGZjZjk2ZTg5NjJmMTE4NzAyZjg1NTNjZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.U5TZ3UvzZbNG2edAPLI7Trc2jT9C0nBDaHo-fOa0OLs" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 </div>
 
 ## 📱 Let's Connect
@@ -185,13 +184,13 @@ const developer = {
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ4NTIzNjAsIm5iZiI6MTc1NDg1MjA2MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEwVDE4NTQyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0ZTIyNDJjNjRlYWRlYjI0OTgyYWU0MWZiMTllZDNmYThlZjY2MGZjZjk2ZTg5NjJmMTE4NzAyZjg1NTNjZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.U5TZ3UvzZbNG2edAPLI7Trc2jT9C0nBDaHo-fOa0OLs" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SWAGGATH4K1NG/SWAGGATH4K1NG/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/138601399/251216612-6bd47cb8-5689-4c09-9a8b-3774b321fa87.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/138601399/251216612-6bd47cb8-5689-4c09-9a8b-3774b321fa87.gif" width="500">
   
   ### 🚀 Ready to make an impact!
   
