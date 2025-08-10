@@ -27,11 +27,11 @@ const swagga = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🛠️ Tech Stack & Ferramentas
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Linguagens de Programação
+### 💻 Programming Languages
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -46,7 +46,7 @@ const swagga = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-### 🔧 Ferramentas & IDEs
+### 🔧 Tools & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -61,16 +61,16 @@ const swagga = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SWAGGATH4K1NG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAGGATH4K1NG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SWAGGATH4K1NG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SWAGGATH4K1NG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SWAGGATH4K1NG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SWAGGATH4K1NG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SWAGGATH4K1NG&theme=tokyo-night&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWAGGATH4K1NG&theme=tokyo-night&hide_border=true&area=true" width="100%">
 </div>
 
 ## 🏆 GitHub Achievements
@@ -83,7 +83,7 @@ const swagga = {
 
 <div align="center">
 
-[![Real-time Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=Real-time-Markdown-Editor&theme=tokyonight&hide_border=true)](https://github.com/SWAGGATH4K1NG/Real-time-Markdown-Editor)
+[![Real-time Markdown Editor](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=Real-time-Markdown-Editor&theme=tokyonight&hide_border=true)](https://github.com/SWAGGATH4K1NG/Real-time-Markdown-Editor)
 
 </div>
 
@@ -123,25 +123,31 @@ const swagga = {
 
 </div>
 
-## 🎯 Future goals
+## 🎯 Goals for 2024
 
 - [ ] 🚀 Contribute to more open source projects
 - [ ] 📚 Learn new technologies (React Native, Docker)
-- [ ] 🎮 Develop an game
+- [ ] 🎮 Develop an indie game
 - [ ] 📱 Create a mobile application
 - [ ] 🌐 Improve DevOps skills
 - [ ] 💼 Get first job as a developer
 
-## 💭 Favorite Quote
+## 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-## 🎮 Gaming & Coding
+## 🎮 Gaming & Coding Zone
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+</div>
+
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWAGGATH4K1NG&custom_title=SWAGGA's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph">
 </div>
 
 ---
