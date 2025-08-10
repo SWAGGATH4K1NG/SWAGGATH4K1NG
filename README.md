@@ -1,23 +1,24 @@
-# 👋 Olá! Eu sou o SWAGGA
+# 👋 Hello! I'm SWAGGA
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desenvolvedor+Full-Stack+de+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Apaixonado+por+Tecnologia+e+Inovação+%F0%9F%9A%80;Sempre+Aprendendo+Algo+Novo+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Passionate+about+Technology+%26+Innovation+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%A1;Gaming+%26+Coding+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
 ```javascript
 const swagga = {
-    nome: "SWAGGA",
-    localização: "Portugal 🇵🇹",
-    idade: "Jovem Desenvolvedor",
-    foco: "Desenvolvimento Full-Stack",
-    objetivo: "Criar soluções inovadoras",
-    hobbies: ["Coding", "Gaming", "Streaming", "Aprender novas tecnologias"],
+    name: "SWAGGA",
+    location: "Portugal 🇵🇹",
+    role: "Young Developer",
+    focus: "Full-Stack Development",
+    goal: "Create innovative solutions",
+    hobbies: ["Coding", "Gaming", "Streaming", "Learning new tech"],
+    currentlyLearning: ["Advanced JavaScript", "React", "Node.js"],
     motto: "Code, Create, Innovate! 💻✨"
 };
 ```
@@ -57,48 +58,48 @@ const swagga = {
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SWAGGATH4K1NG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAGGATH4K1NG&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SWAGGATH4K1NG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAGGATH4K1NG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SWAGGATH4K1NG&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SWAGGATH4K1NG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWAGGATH4K1NG&theme=tokyo-night&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SWAGGATH4K1NG&theme=tokyo-night&hide_border=true&area=true" width="100%">
 </div>
 
-## 🏆 Conquistas GitHub
+## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SWAGGATH4K1NG&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
-## 🌟 Projetos em Destaque
+## 🌟 Featured Projects
 
 <div align="center">
 
-[![Real-time Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=real-time-markdown-editor&theme=tokyonight)](https://github.com/SWAGGATH4K1NG/real-time-markdown-editor)
+[![Real-time Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=Real-time-Markdown-Editor&theme=tokyonight&hide_border=true)](https://github.com/SWAGGATH4K1NG/Real-time-Markdown-Editor)
 
 </div>
 
-## 🌍 Idiomas
+## 🌍 Languages
 
 <div align="center">
 
-| Idioma | Nível |
-|--------|-------|
-| 🇵🇹 **Português** | Nativo |
-| 🇬🇧 **Inglês** | Fluente |
-| 🇪🇸 **Espanhol** | Básico |
+| Language | Level |
+|----------|-------|
+| 🇵🇹 **Portuguese** | Native |
+| 🇬🇧 **English** | Fluent |
+| 🇪🇸 **Spanish** | Basic |
 
 </div>
 
-## 📱 Redes Sociais & Contato
+## 📱 Social Media & Contact
 
 <div align="center">
 
@@ -112,7 +113,7 @@ const swagga = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 📈 Atividade & Contribuições
+## 📈 Activity & Contributions
 
 <div align="center">
   
@@ -122,25 +123,25 @@ const swagga = {
 
 </div>
 
-## 🎯 Objetivos para 2024
+## 🎯 Future goals
 
-- [ ] 🚀 Contribuir para mais projetos open source
-- [ ] 📚 Aprender novas tecnologias (React Native, Docker)
-- [ ] 🎮 Desenvolver um jogo indie
-- [ ] 📱 Criar uma aplicação mobile
-- [ ] 🌐 Melhorar skills em DevOps
-- [ ] 💼 Conseguir primeiro emprego como desenvolvedor
+- [ ] 🚀 Contribute to more open source projects
+- [ ] 📚 Learn new technologies (React Native, Docker)
+- [ ] 🎮 Develop an game
+- [ ] 📱 Create a mobile application
+- [ ] 🌐 Improve DevOps skills
+- [ ] 💼 Get first job as a developer
 
-## 💭 Citação Favorita
+## 💭 Favorite Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-## 🐍 Contribuições
+## 🎮 Gaming & Coding
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SWAGGATH4K1NG/SWAGGATH4K1NG/output/snake.svg" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 </div>
 
 ---
@@ -148,7 +149,7 @@ const swagga = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  ### 💜 Obrigado pela visita!
+  ### 💜 Thanks for visiting!
   
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
   
