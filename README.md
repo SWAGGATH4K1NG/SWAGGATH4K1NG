@@ -72,10 +72,6 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWAGGATH4K1NG&custom_title=SWAGGA's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph">
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="400">
 </div>
 
@@ -199,5 +195,12 @@ const developer = {
 ---
 
 <div align="center">
-  <i>⭐️ From [SWAGGATH4K1NG](https://github.com/SWAGGATH4K1NG) with ❤️</i>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
+  ### 💜 Thank you for visiting
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+  
+  **"Code is like humor. When you have to explain it, it's bad." - Cory House**
+  
 </div>
