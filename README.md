@@ -1,109 +1,105 @@
-# Hi there! 👋 I'm SWAGGA TH4 K1NG
+
+# 👋 Olá! Eu sou o SWAGGA
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Passionate+about+Technology+%26+Innovation+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%A1;Gaming+%26+Coding+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desenvolvedor+Full-Stack+de+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Apaixonado+por+Tecnologia+e+Inovação+%F0%9F%9A%80;Sempre+Aprendendo+Algo+Novo+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-I'm a passionate developer from Portugal who loves creating innovative solutions and exploring new technologies. When I'm not coding, you'll find me gaming or learning about the latest tech trends!
-
-- 🔭 I'm currently working on **Real-time Markdown Editor**
-- 🌱 I'm currently learning **Advanced React, Node.js, and Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Gaming, and Tech**
-- 📫 How to reach me: **swaggaofficial@outlook.pt**
-- ⚡ Fun fact: **I love combining gaming aesthetics with clean code!**
+```javascript
+const swagga = {
+    nome: "SWAGGA",
+    localização: "Portugal 🇵🇹",
+    idade: "Jovem Desenvolvedor",
+    foco: "Desenvolvimento Full-Stack",
+    objetivo: "Criar soluções inovadoras",
+    hobbies: ["Coding", "Gaming", "Streaming", "Aprender novas tecnologias"],
+    motto: "Code, Create, Innovate! 💻✨"
+};
+```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Linguagens de Programação
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### 🔧 Ferramentas & IDEs
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SWAGGATH4K1NG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAGGATH4K1NG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SWAGGATH4K1NG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAGGATH4K1NG&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SWAGGATH4K1NG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SWAGGATH4K1NG&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="400">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWAGGATH4K1NG&theme=tokyo-night&hide_border=true&area=true" width="100%">
 </div>
 
-## 🏆 GitHub Achievements
+## 🏆 Conquistas GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SWAGGATH4K1NG&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWAGGATH4K1NG&custom_title=SWAGGA's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
-</div>
-
-## 🌟 Featured Projects
+## 🌟 Projetos em Destaque
 
 <div align="center">
 
-[![Real-time Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=Real-time-Markdown-Editor&theme=tokyonight&hide_border=true)](https://github.com/SWAGGATH4K1NG/Real-time-Markdown-Editor)
+[![Real-time Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=real-time-markdown-editor&theme=tokyonight)](https://github.com/SWAGGATH4K1NG/real-time-markdown-editor)
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="400">
-</div>
-
-## 🌍 Languages
+## 🌍 Idiomas
 
 <div align="center">
 
-| Language | Level |
-|----------|-------|
-| 🇵🇹 **Portuguese** | Native |
-| 🇬🇧 **English** | Fluent |
-| 🇪🇸 **Spanish** | Basic |
+| Idioma | Nível |
+|--------|-------|
+| 🇵🇹 **Português** | Nativo |
+| 🇬🇧 **Inglês** | Fluente |
+| 🇪🇸 **Espanhol** | Básico |
 
 </div>
 
-## 📱 Social Media & Contact
+## 📱 Redes Sociais & Contato
 
 <div align="center">
 
@@ -113,7 +109,11 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 
 </div>
 
-## 📈 Activity & Contributions
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## 📈 Atividade & Contribuições
 
 <div align="center">
   
@@ -123,35 +123,39 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 
 </div>
 
-## 🎯 Goals for 2025
+## 🎯 Objetivos para 2024
 
-- [ ] 🚀 Contribute to more open source projects
-- [ ] 📚 Learn new technologies (React Native, Docker)
-- [ ] 🎮 Develop an indie game
-- [ ] 📱 Create a mobile application
-- [ ] 🌐 Improve DevOps skills
-- [ ] 💼 Get first job as a developer
+- [ ] 🚀 Contribuir para mais projetos open source
+- [ ] 📚 Aprender novas tecnologias (React Native, Docker)
+- [ ] 🎮 Desenvolver um jogo indie
+- [ ] 📱 Criar uma aplicação mobile
+- [ ] 🌐 Melhorar skills em DevOps
+- [ ] 💼 Conseguir primeiro emprego como desenvolvedor
 
-## 💭 Random Dev Quote
+## 💭 Citação Favorita
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-## 🎮 Gaming & Coding Zone
+## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="500">
-</div>
-
-## 🔥 Let's Connect and Build Something Amazing!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/138601399/251216612-6bd47cb8-5689-4c09-9a8b-3774b321fa87.gif" width="500">
+  <img src="https://raw.githubusercontent.com/SWAGGATH4K1NG/SWAGGATH4K1NG/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From [SWAGGATH4K1NG](https://github.com/SWAGGATH4K1NG) with ❤️</i>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
+  ### 💜 Obrigado pela visita!
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+  
+  **"Code is like humor. When you have to explain it, it's bad." - Cory House**
+  
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
