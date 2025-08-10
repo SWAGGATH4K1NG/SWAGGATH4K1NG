@@ -20,7 +20,7 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 - ⚡ Fun fact: **I love combining gaming aesthetics with clean code!**
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
 </div>
 
 ## 🛠️ Tech Stack & Tools
@@ -42,17 +42,17 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="400">
 </div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SWAGGATH4K1NG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SWAGGATH4K1NG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SWAGGATH4K1NG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAGGATH4K1NG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -60,7 +60,7 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="400">
 </div>
 
 ## 🏆 GitHub Achievements
@@ -76,19 +76,19 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 </div>
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240885602-330af13b-6435-4505-8a02-1869b677f9eb.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-[![Real-time Markdown Editor](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=Real-time-Markdown-Editor&theme=tokyonight&hide_border=true)](https://github.com/SWAGGATH4K1NG/Real-time-Markdown-Editor)
+[![Real-time Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=Real-time-Markdown-Editor&theme=tokyonight&hide_border=true)](https://github.com/SWAGGATH4K1NG/Real-time-Markdown-Editor)
 
 </div>
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="400">
 </div>
 
 ## 🌍 Languages
@@ -113,10 +113,6 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="400">
-</div>
-
 ## 📈 Activity & Contributions
 
 <div align="center">
@@ -127,7 +123,7 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 
 </div>
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 
 - [ ] 🚀 Contribute to more open source projects
 - [ ] 📚 Learn new technologies (React Native, Docker)
@@ -135,10 +131,6 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 - [ ] 📱 Create a mobile application
 - [ ] 🌐 Improve DevOps skills
 - [ ] 💼 Get first job as a developer
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
-</div>
 
 ## 💭 Random Dev Quote
 
@@ -149,17 +141,13 @@ I'm a passionate developer from Portugal who loves creating innovative solutions
 ## 🎮 Gaming & Coding Zone
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="500">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="500">
 </div>
 
 ## 🔥 Let's Connect and Build Something Amazing!
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/138601399/251216612-6bd47cb8-5689-4c09-9a8b-3774b321fa87.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/138601399/251216612-6bd47cb8-5689-4c09-9a8b-3774b321fa87.gif" width="500">
 </div>
 
 ---
