@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm SWAGGA TH4 K1NG
+# Hi there! 👋 I'm SWAGGA
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Passionate+about+Technology+%26+Innovation+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%A1;Ready+to+Build+Amazing+Solutions+%F0%9F%94%A5" alt="Typing SVG" />
@@ -29,6 +29,11 @@ const developer = {
 ## 🛠️ Technical Skills
 
 <div align="center">
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+</div>
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,7 +81,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="400">
 </div>
 
 ## 🏆 Achievements & Recognition
@@ -140,7 +145,7 @@ const developer = {
 - [ ] 💼 Get first job as a developer
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ4NTIzNjAsIm5iZiI6MTc1NDg1MjA2MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEwVDE4NTQyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0ZTIyNDJjNjRlYWRlYjI0OTgyYWU0MWZiMTllZDNmYThlZjY2MGZjZjk2ZTg5NjJmMTE4NzAyZjg1NTNjZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.U5TZ3UvzZbNG2edAPLI7Trc2jT9C0nBDaHo-fOa0OLs" width="400">
 </div>
 
 ## 📱 Let's Connect
