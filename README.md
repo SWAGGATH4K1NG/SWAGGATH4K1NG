@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="400">
 </div>
 
 ## 🚀 About Me
@@ -21,10 +21,6 @@ const developer = {
     currentFocus: "Building scalable applications with modern technologies"
 };
 ```
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400">
-</div>
 
 ## 🛠️ Technical Skills
 
@@ -190,8 +186,8 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/138601399/251216612-6bd47cb8-5689-4c09-9a8b-3774b321fa87.gif" width="500">
-  
+  <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400">
+
   ### 🚀 Ready to make an impact!
   
   **Thank you for visiting my profile. Let's build something amazing together!**
