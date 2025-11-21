@@ -93,7 +93,7 @@ const developer = {
 
 <div align="center">
 
-[![Real-time Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=Real-time-Markdown-Editor&theme=tokyonight&hide_border=true)](https://github.com/SWAGGATH4K1NG/Real-time-Markdown-Editor)
+[![Real-time Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=SWAGGATH4K1NG&repo=Real-time-Markdown-Editor&theme=tokyonight&hide_border=true)](https://github.com/SWAGGATH4K1NG/hogwarts-collection)
 
 **Real-time Markdown Editor** - A collaborative markdown editor with live preview, built with Node.js, Express, and Socket.io. Features real-time synchronization and a modern cyberpunk UI.
 
