@@ -139,7 +139,7 @@ const developer = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SWAGGATH4K1NG)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/swagga_th4_k1ng)
 
-**📧 swaggaofficial@outlook.pt** | **🌍 Portugal** | **💼 Available for opportunities**
+**📧 lm.network.pt@proton.me** | **🌍 Portugal** | **💼 Available for opportunities**
 
 </div>
 
