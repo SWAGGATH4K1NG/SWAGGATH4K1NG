@@ -14,7 +14,7 @@
 
 ```javascript
 const developer = {
-    name: "SWAGGA TH4 K1NG",
+    name: "SWAGGA",
     location: "Portugal 🇵🇹",
     role: "Full-Stack Developer",
     specialties: ["Web Development", "Problem Solving", "Clean Code"],
@@ -135,7 +135,7 @@ const developer = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swaggaofficial@outlook.pt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lm.network.pt@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SWAGGATH4K1NG)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/swagga_th4_k1ng)
 
