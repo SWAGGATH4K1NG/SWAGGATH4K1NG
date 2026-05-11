@@ -40,14 +40,6 @@ const developer = {
 
 <div align="center">
 
-### Overall Statistics
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWAGGATH4K1NG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&ring_color=A855F7)
-
-### Language Distribution
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SWAGGATH4K1NG&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=A855F7)
-
 ### Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SWAGGATH4K1NG&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7)
