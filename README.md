@@ -148,9 +148,6 @@
 "Clean code always looks like it was written by someone who cares."
                                             — Robert C. Martin
 ```
-
-<img src="https://raw.githubusercontent.com/SWAGGATH4K1NG/SWAGGATH4K1NG/output/snake.svg" width="100%">
-
 <img src="https://raw.githubusercontent.com/SWAGGATH4K1NG/SWAGGATH4K1NG/main/metrics.plugin.isocalendar.svg" width="100%">
 
 
